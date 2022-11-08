@@ -1,0 +1,14 @@
+{
+  "name": "good-grape-wineries",
+  "version": "1.0.0",
+  "description": "Good Grape Wineries Assessmet 2 for Front End Development",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katrina Gill",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
